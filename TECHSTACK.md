@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام أرشفة ذكي حسب المحتوى
+# 🛠️ Technologies Used — Smart Content-Based Archiving System
 
 - Python
 - FastAPI
